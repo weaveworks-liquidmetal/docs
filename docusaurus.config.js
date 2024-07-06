@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Liquid Metal',
   tagline: 'Declarative, lightweight, and fast Kubernetes clusters.',
-  url: 'https://weaveworks-liquidmetal.github.io',
-  baseUrl: '/site/',
+  url: 'https://www.liquidmetal.dev',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/DROPLET.svg',
