@@ -9,7 +9,7 @@ const config = {
   title: 'Liquid Metal',
   tagline: 'Declarative, lightweight, and fast Kubernetes clusters.',
   url: 'https://www.liquidmetal.dev',
-  baseUrl: '/',
+  baseUrl: '/', // Base url
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/DROPLET.svg',
