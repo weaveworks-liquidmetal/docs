@@ -73,7 +73,7 @@ And add the result to the spec:
 ```
 
 [capmvm]: /docs/component-info/capmvm/#adding-ssh-keys-to-microvms
-[service]: https://github.com/weaveworks-liquidmetal/flintlock/blob/main/flintlockd.service
-[provision]: https://github.com/weaveworks-liquidmetal/flintlock/tree/main/hack/scripts#provisionsh
+[service]: https://github.com/liquidmetal-dev/flintlock/blob/main/flintlockd.service
+[provision]: https://github.com/liquidmetal-dev/flintlock/tree/main/hack/scripts#provisionsh
 [proto-api]: https://buf.build/weaveworks-liquidmetal/flintlock
 [http-api]: https://weaveworks-liquidmetal.github.io/flintlock/flintlock-api/

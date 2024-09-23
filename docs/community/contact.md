@@ -31,7 +31,7 @@ To join discussions, comment on issues, or ask for help, please go to the releva
 repo in our [github org][gh].
 
 [slack]: https://weave-community.slack.com/archives/C02KARWGR7S
-[gh]: https://github.com/weaveworks-liquidmetal
+[gh]: https://github.com/liquidmetal-dev
 [group]: https://groups.google.com/g/liquid-metal-contributors
 [event]: https://calendar.google.com/calendar/u/0?cid=ZGZhMjVkNzBlZGUwZWQ3OWY1ODNiZTNiMjhlZGNkNGY4YThkNDk0MWU0YWEzNWZhNmJlNGU1MjNlOWU4MGZlYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
 [agenda]: https://docs.google.com/document/d/16XHoWWouzLypGDJ-YQtwVzVD1zOq-SLTG8mm1bVqSA8/edit

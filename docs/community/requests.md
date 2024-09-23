@@ -69,7 +69,7 @@ the project goals will likely be rejected, as will highly specialised usecases.
 [coc]: /docs/community/coc
 [slack]: https://weave-community.slack.com/archives/C02KARWGR7S
 [board]: https://github.com/orgs/weaveworks-liquidmetal/projects/1/views/2
-[capmvm]: https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm
-[discussion]: https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm/discussions/categories/ideas
-[flintlock]: https://github.com/weaveworks-liquidmetal/flintlock
+[capmvm]: https://github.com/liquidmetal-dev/cluster-api-provider-microvm
+[discussion]: https://github.com/liquidmetal-dev/cluster-api-provider-microvm/discussions/categories/ideas
+[flintlock]: https://github.com/liquidmetal-dev/flintlock
 [contributing]: /docs/community/contributing

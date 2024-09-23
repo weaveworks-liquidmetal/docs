@@ -215,5 +215,5 @@ kubectl delete cluster $CLUSTER_NAME
 ```
 
 [kvip]: https://kube-vip.io/
-[images]: https://github.com/weaveworks-liquidmetal/image-builder
+[images]: https://github.com/liquidmetal-dev/image-builder
 [demo]: https://warehouse-13.github.io/cosmic/docs/build-guide/demo-build/#dhcp-server

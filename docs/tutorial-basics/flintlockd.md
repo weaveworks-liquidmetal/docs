@@ -114,6 +114,6 @@ In the next step we can start to create our CAPI management cluster.
 
 [firecracker]: https://firecracker-microvm.github.io/
 [cloud-h]: https://www.cloudhypervisor.org/
-[fl]: https://github.com/weaveworks-liquidmetal/fl
+[fl]: https://github.com/liquidmetal-dev/fl
 [ht]: https://github.com/warehouse-13/hammertime
 

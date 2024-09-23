@@ -36,6 +36,6 @@ API code._
 
 [install]: /docs/tutorial-basics/capi
 [cty]: https://github.com/Skarlso/crd-to-sample-yaml
-[cluster]: https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm/blob/main/api/v1alpha1/microvmcluster_types.go
-[machine]: https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm/blob/main/api/v1alpha1/microvmmachine_types.go
-[machinetemplate]: https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm/blob/main/api/v1alpha1/microvmmachinetemplate_types.go
+[cluster]: https://github.com/liquidmetal-dev/cluster-api-provider-microvm/blob/main/api/v1alpha1/microvmcluster_types.go
+[machine]: https://github.com/liquidmetal-dev/cluster-api-provider-microvm/blob/main/api/v1alpha1/microvmmachine_types.go
+[machinetemplate]: https://github.com/liquidmetal-dev/cluster-api-provider-microvm/blob/main/api/v1alpha1/microvmmachinetemplate_types.go

@@ -68,9 +68,9 @@ If no disk is passed, the script will attempt to detect one which is available.
 
 Run `./provision.sh --help` for all options.
 
-[provision]: https://github.com/weaveworks-liquidmetal/flintlock/tree/main/hack/scripts#provisionsh
+[provision]: https://github.com/liquidmetal-dev/flintlock/tree/main/hack/scripts#provisionsh
 [fc]: https://github.com/weaveworks/firecracker/releases
-[flint]: https://github.com/weaveworks-liquidmetal/flintlock/releases
-[service]: https://github.com/weaveworks-liquidmetal/flintlock/blob/main/flintlockd.service
+[flint]: https://github.com/liquidmetal-dev/flintlock/releases
+[service]: https://github.com/liquidmetal-dev/flintlock/blob/main/flintlockd.service
 [containerd]: https://github.com/containerd/containerd/releases
 [devmapper]: https://docs.docker.com/storage/storagedriver/device-mapper-driver/

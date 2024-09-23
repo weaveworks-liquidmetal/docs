@@ -173,4 +173,4 @@ Metal Platform and Cluster look like in action.
 [kvip]: https://kube-vip.io/
 [kc]: https://kubernetes.io/docs/tasks/tools/
 [net]: /docs/tutorial-basics/network
-[mmt]: https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm/blob/42196e0bf388235f39211769cb8e5c0049172c10/api/v1alpha1/types.go#L103-L105
+[mmt]: https://github.com/liquidmetal-dev/cluster-api-provider-microvm/blob/42196e0bf388235f39211769cb8e5c0049172c10/api/v1alpha1/types.go#L103-L105

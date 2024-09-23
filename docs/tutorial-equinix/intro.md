@@ -67,5 +67,5 @@ Fixing this is on our todo list.
 [kind]: https://kind.sigs.k8s.io/
 [clusterctl]: https://cluster-api.sigs.k8s.io/user/quick-start.html#install-clusterctl
 [kubectl]: https://kubernetes.io/docs/tasks/tools/
-[tf-module]: https://github.com/weaveworks-liquidmetal/terraform-equinix-liquidmetal
+[tf-module]: https://github.com/liquidmetal-dev/terraform-equinix-liquidmetal
 [hybrid]: https://metal.equinix.com/developers/docs/layer2-networking/hybrid-bonded-mode/

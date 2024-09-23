@@ -90,6 +90,6 @@ and the rest of the investigation will be tracked there.
 [coc]: /docs/community/coc
 [contrib]: /docs/community/contributing
 [slack]: https://weave-community.slack.com/archives/C02KARWGR7S
-[capmvm]: https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm
-[flintlock]: https://github.com/weaveworks-liquidmetal/flintlock
-[site]: https://github.com/weaveworks-liquidmetal/site
+[capmvm]: https://github.com/liquidmetal-dev/cluster-api-provider-microvm
+[flintlock]: https://github.com/liquidmetal-dev/flintlock
+[site]: https://github.com/liquidmetal-dev/site
