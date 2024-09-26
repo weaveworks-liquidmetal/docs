@@ -55,7 +55,7 @@ repo.
 cat << EOF >~/.cluster-api/clusterctl.yaml
 providers:
   - name: "microvm"
-    url: "https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm/releases/$CAPMVM_VERSION/infrastructure-components.yaml"
+    url: "https://github.com/liquidmetal-dev/cluster-api-provider-microvm/releases/$CAPMVM_VERSION/infrastructure-components.yaml"
     type: "InfrastructureProvider"
 EOF
 ```
@@ -103,8 +103,8 @@ culprit and can be removed with `unset GITHUB_TOKEN`.
 [kind]: https://kind.sigs.k8s.io/
 [docker]: https://docs.docker.com/get-docker/
 [capi]: https://cluster-api.sigs.k8s.io/
-[capmvm]: https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm
+[capmvm]: https://github.com/liquidmetal-dev/cluster-api-provider-microvm
 [clusterctl]: https://cluster-api.sigs.k8s.io/user/quick-start.html#install-clusterctl
-[compat]: https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm/blob/main/docs/compatibility.md
-[vers-bug]: https://github.com/weaveworks-liquidmetal/flintlock/issues/508
-[fl-latest]: https://github.com/weaveworks-liquidmetal/flintlock/releases/latest
+[compat]: https://github.com/liquidmetal-dev/cluster-api-provider-microvm/blob/main/docs/compatibility.md
+[vers-bug]: https://github.com/liquidmetal-dev/flintlock/issues/508
+[fl-latest]: https://github.com/liquidmetal-dev/flintlock/releases/latest

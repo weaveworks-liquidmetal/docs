@@ -39,14 +39,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/weaveworks-liquidmetal/site/tree/main/',
+            'https://github.com/liquidmetal-dev/site/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/weaveworks-liquidmetal/site/tree/main/',
+            'https://github.com/liquidmetal-dev/site/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -80,7 +80,7 @@ const config = {
             sidebarId: 'community',
           },
           {
-            href: 'https://github.com/weaveworks-liquidmetal',
+            href: 'https://github.com/liquidmetal-dev',
             label: 'GitHub',
             position: 'right',
           },
@@ -124,7 +124,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/weaveworks-liquidmetal',
+                href: 'https://github.com/liquidmetal-dev',
               },
             ],
           },

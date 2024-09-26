@@ -63,4 +63,4 @@ come to the [Slack channel][slack] or open an issue in [Github][gh].
 :::
 
 [slack]: https://weave-community.slack.com/archives/C02KARWGR7S
-[gh]: https://github.com/weaveworks-liquidmetal/site
+[gh]: https://github.com/liquidmetal-dev/site

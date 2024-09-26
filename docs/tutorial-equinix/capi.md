@@ -76,7 +76,7 @@ repo:
 cat << EOF >>~/.cluster-api/clusterctl.yaml
 providers:
   - name: "microvm"
-    url: "https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm/releases/$CAPMVM_VERSION/infrastructure-components.yaml"
+    url: "https://github.com/liquidmetal-dev/cluster-api-provider-microvm/releases/$CAPMVM_VERSION/infrastructure-components.yaml"
     type: "InfrastructureProvider"
 EOF
 ```
@@ -123,6 +123,6 @@ We are now ready to create a workload cluster with MicroVMs!
 
 [kind]: https://kind.sigs.k8s.io/
 [capi]: https://cluster-api.sigs.k8s.io/
-[capmvm]: https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm
+[capmvm]: https://github.com/liquidmetal-dev/cluster-api-provider-microvm
 [clusterctl]: https://cluster-api.sigs.k8s.io/user/quick-start.html#install-clusterctl
-[compat]: https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm/blob/main/docs/compatibility.md
+[compat]: https://github.com/liquidmetal-dev/cluster-api-provider-microvm/blob/main/docs/compatibility.md

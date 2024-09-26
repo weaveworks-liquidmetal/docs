@@ -8,7 +8,7 @@ to publish manually.
 Local development:
 
 ```bash
-git clone https://github.com/weaveworks-liquidmetal/site
+git clone https://github.com/liquidmetal-dev/site
 cd site
 ```
 

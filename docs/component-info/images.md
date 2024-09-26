@@ -140,7 +140,7 @@ Our image builder can be found [here][image-builder] if you would like to use it
 Note that `firecracker` only documents support for `5.10` and `4.19` kernels.
 :::
 
-[image-builder]: https://github.com/weaveworks-liquidmetal/image-builder
+[image-builder]: https://github.com/liquidmetal-dev/image-builder
 [ht]: https://github.com/warehouse-13/hammertime
-[cap7]: https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm/releases/tag/v0.7.0
-[fl4]: https://github.com/weaveworks-liquidmetal/flintlock/releases/tag/v0.4.0
+[cap7]: https://github.com/liquidmetal-dev/cluster-api-provider-microvm/releases/tag/v0.7.0
+[fl4]: https://github.com/liquidmetal-dev/flintlock/releases/tag/v0.4.0

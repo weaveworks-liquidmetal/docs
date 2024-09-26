@@ -87,9 +87,9 @@ awesome! Let us know on the issue and it will be assigned to you. Head over to t
 [coc]: /docs/community/coc
 [slack]: https://weave-community.slack.com/archives/C02KARWGR7S
 [board]: https://github.com/orgs/weaveworks-liquidmetal/projects/1/views/2
-[capmvm]: https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm
-[discussion]: https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm/discussions/categories/ideas
-[flintlock]: https://github.com/weaveworks-liquidmetal/flintlock
+[capmvm]: https://github.com/liquidmetal-dev/cluster-api-provider-microvm
+[discussion]: https://github.com/liquidmetal-dev/cluster-api-provider-microvm/discussions/categories/ideas
+[flintlock]: https://github.com/liquidmetal-dev/flintlock
 [contributing]: /docs/community/contributing
 [md]: https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/getting-started-with-writing-and-formatting-on-github
 [blocks]: https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/creating-and-highlighting-code-blocks

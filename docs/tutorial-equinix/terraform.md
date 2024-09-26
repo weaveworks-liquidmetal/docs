@@ -148,6 +148,6 @@ fl microvm get --host <address>:9090
 ```
 
 [ts-dash]: https://login.tailscale.com/admin/machines
-[fl]: https://github.com/weaveworks-liquidmetal/fl
+[fl]: https://github.com/liquidmetal-dev/fl
 [ht]: https://github.com/warehouse-13/hammertime
 [eq-cli]: https://metal.equinix.com/developers/docs/libraries/cli/

@@ -169,9 +169,9 @@ Submissions which do not meet standards will be de-prioritised for review.
 [commit]: #commit-message-formatting
 [submission]: #pr-submission-guidelines
 [gpg]: https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits
-[site]: https://github.com/weaveworks-liquidmetal/site
+[site]: https://github.com/liquidmetal-dev/site
 [draft]: https://github.blog/2019-02-14-introducing-draft-pull-requests/
 [imperative]: https://en.wikipedia.org/wiki/Imperative_mood
-[eg-commit]: https://github.com/weaveworks-liquidmetal/flintlock/commit/7a30dd99dc7c05827ba11050505c476799bb2932
+[eg-commit]: https://github.com/liquidmetal-dev/flintlock/commit/7a30dd99dc7c05827ba11050505c476799bb2932
 [commit-tmpl]: https://gist.github.com/yitsushi/656e68c7db141743e81b7dcd23362f1a
 [git-commit]: https://chris.beams.io/posts/git-commit/
